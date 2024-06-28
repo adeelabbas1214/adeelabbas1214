@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeel Abbas</h1>
 <h3 align="center">A passionate DevOps Engineer from Paakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
-
-<img align="right" alt="Coding" width="400" src=https://cdnl.iconscout.com/lottie/premium/preview-watermark/professional-male-devops-8872610-7233289.mp4)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeelabbas1214&label=Profile%20views&color=0e75b6&style=flat" alt="adeelabbas1214" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeelabbas1214" alt="adeelabbas1214" /></a> </p>
 
@@ -38,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeelabbas1214&show_icons=true&locale=en&layout=compact" alt="adeelabbas1214" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeelabbas1214&show_icons=true&locale=en" alt="adeelabbas1214" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelabbas1214&" alt="adeelabbas1214" /></p>
