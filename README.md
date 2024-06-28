@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeel Abbas</h1>
 <h3 align="center">A passionate DevOps Engineer from Paakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif"
+<img align="centre" alt="DEVOPS" width="400"  src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif"
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeelabbas1214" alt="adeelabbas1214" /></a> </p>
