@@ -1,33 +1,29 @@
 <h1 align="center">Hi 👋, I'm Adeel Abbas</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
-<div style="text-align: center;">
+<div align="center">
     <img alt="DEVOPS" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
 </div>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=adeelabbas1214" alt="adeelabbas1214" />
     </a>
 </p>
 
-<p align="left">
-    <a href="https://twitter.com/adeelabbas_1214" target="blank">
+<p align="center">
+    <a href="https://twitter.com/adeelabbas_1214" target="_blank">
         <img src="https://img.shields.io/twitter/follow/adeelabbas_1214?logo=twitter&style=for-the-badge" alt="adeelabbas_1214" />
     </a>
 </p>
 
 - 🔭 I’m currently working on **Jenkins**
-
 - 🌱 I’m currently learning **Asterisk PBX, AWS, Linux**
-
 - 📝 I regularly write articles on [https://blog.piecebyte.com/](https://blog.piecebyte.com/)
-
 - 💬 Ask me about **DevOps, AWS, Linux**
-
 - 📫 How to reach me **adeel.abbas@piecebyte.com**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -49,8 +45,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
-
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    </a>
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
         <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" />
     </a>
@@ -86,10 +83,10 @@
     </a>
 </p>
 
-<p>
+<p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeelabbas1214&show_icons=true&locale=en&layout=compact" alt="adeelabbas1214" />
 </p>
 
-<p>&nbsp;
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeelabbas1214&show_icons=true&locale=en" alt="adeelabbas1214" />
 </p>
