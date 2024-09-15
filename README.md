@@ -49,6 +49,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
+
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
         <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" />
     </a>
