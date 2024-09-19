@@ -6,12 +6,6 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=adeelabbas1214" alt="adeelabbas1214" />
-    </a>
-</p>
-
-<p align="center">
     <a href="https://twitter.com/adeelabbas_1214" target="_blank">
         <img src="https://img.shields.io/twitter/follow/adeelabbas_1214?logo=twitter&style=for-the-badge" alt="adeelabbas_1214" />
     </a>
