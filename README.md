@@ -5,6 +5,11 @@
     <img alt="DEVOPS" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
 </div>
 
+<!-- Additional Image -->
+<div align="center">
+    <img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Additional Image" width="400">
+</div>
+
 <p align="center">
     <a href="https://twitter.com/adeelabbas_1214" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/twitter/follow/adeelabbas_1214?logo=twitter&style=for-the-badge" alt="adeelabbas_1214" />
