@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Jenkins**
 - 🌱 I’m currently learning **Asterisk PBX, AWS, Linux**
-- 📝 I regularly write articles on [Piecebyte Blog](https://blog.piecebyte.com/)
+- 📝 I regularly write articles on [blog.piecebyte.com](https://blog.piecebyte.com/)
 - 💬 Ask me about **DevOps, AWS, Linux**
 - 📫 How to reach me: **adeel.abbas@piecebyte.com**
 
@@ -26,7 +26,7 @@
     <a href="https://twitter.com/adeelabbas_1214" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeelabbas_1214" height="30" width="40" />
     </a>
-    <a href="https://fb.com/i_am_adeel_abbas_1214" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.facebook.com/i.am.adeel.abbas.1214" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamadeelabbas1214" height="30" width="40" />
     </a>
     <a href="https://instagram.com/adeelabbas_1214" target="_blank" rel="noopener noreferrer">
@@ -77,4 +77,9 @@
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeelabbas1214&show_icons=true&locale=en" alt="adeelabbas1214" />
+</div>
+
+<div align="center">
+    <!-- GitHub Streak Stats -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelabbas1214&theme=highcontrast" alt="adeelabbas1214 streak" />
 </div>
