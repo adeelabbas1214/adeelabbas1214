@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-    <a href="https://twitter.com/adeelabbas_1214" target="_blank" rel="noopener noreferrer">
+    <a href="https://twitter.com/adeelabbas_1214" target="_blank" rel="noopener noreferrer" >
         <img src="https://img.shields.io/twitter/follow/adeelabbas_1214?logo=twitter&style=for-the-badge" alt="adeelabbas_1214" />
     </a>
 </p>
