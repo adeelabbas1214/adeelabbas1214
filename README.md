@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Jenkins**
 - 🌱 I’m currently learning **Asterisk PBX, AWS, Linux**
-- 📝 I regularly write articles on [blog.piecebyte.com](https://blog.piecebyte.com/)
+- 📝 I write articles on [blog.piecebyte.com](https://blog.piecebyte.com/)
 - 💬 Ask me about **DevOps, AWS, Linux**
 - 📫 How to reach me: **adeel.abbas@piecebyte.com**
 
