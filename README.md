@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeel Abbas</h1>
-<h3 align="center">A  passionate  DevOps  Engineer  from  Pakistan</h3>
+<h3 align="center">A  passionate DevOps  Engineer from Pakistan</h3>
 
 <div align="center">
     <img alt="DEVOPS" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
