@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adeel Abbas</h1>
-<h3 align="center">A  passionate DevOps  Engineer from Pakistan</h3>
+<h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
 <div align="center">
     <img alt="DEVOPS" width="400" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif">
 </div>
 
-<div align="left">
-    <img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Coding" width="250" height="250" align="right" style="margin-left: 15px;">
-</div>
-
 <p align="center">
-    <a href="https://twitter.com/adeelabbas_1214" target="_blank" rel="noopener noreferrer" >
+    <a href="https://twitter.com/adeelabbas_1214" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/twitter/follow/adeelabbas_1214?logo=twitter&style=for-the-badge" alt="adeelabbas_1214" />
     </a>
 </p>
@@ -70,7 +66,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </a>
-    <a href="https://postman.com " target="_blank" rel="noopener noreferrer">
+    <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
     </a>
 </p>
@@ -87,4 +83,3 @@
     <!-- GitHub Streak Stats -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelabbas1214&theme=highcontrast" alt="adeelabbas1214 streak" />
 </div>
-
